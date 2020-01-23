@@ -8,5 +8,5 @@ Requière numpy, numba, matplotlib, python3.
 ### Morpion
 Requière tkinter, python3, et un os linux pour les commandes bash.
 
-###Pacman
+### Pacman
 Requière pygame, tkinter, python3
